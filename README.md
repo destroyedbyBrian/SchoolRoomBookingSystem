@@ -12,5 +12,3 @@ System functions:
 2) make a booking of one or more rooms
 3) modify an existing booking and 4) cancel an existing booking
 
-UI:
-![Image](https://github.com/users/destroyedbyBrian/projects/1/assets/67503930/6aaf3ec4-a8e6-4ce9-9548-eb508222975a)
