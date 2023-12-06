@@ -21,7 +21,6 @@ A school's library room booking system built with ReactJS, Node.js, Express.js a
   * [Requirements](#requirements)
   * [Technologies](#technologies)
 * [Future Developments](#future-developments)
-* [Challenges and final thoughts](#challenges-and-final-thoughts)
 
 ## Getting started
 These instructions will get you a copy of the project up and running on your local machine for development purposes.
