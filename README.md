@@ -2,6 +2,7 @@
 
 <a href='#aboutProject'>About project</a>
 <ul>
+  <li><a href='#problem'>problem</a></li>
   <li href='#problem'>problem</li>
   <li href='#solution'>solution</li>
 </ul>
