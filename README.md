@@ -164,7 +164,7 @@ Work breakdown using Jira KAN board.
 
 **In order to** find a room that has enough chairs, **as a** Staff Member, **I want to** be able to view room capacity.
 
-#### All Students
+#### <ins>All Students</ins>
 
 **In order to** easily book a room, **as a** student, **I want to** be able to view only available rooms.
 
