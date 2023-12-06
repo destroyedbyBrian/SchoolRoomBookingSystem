@@ -1,13 +1,9 @@
 # SchoolRoomBookingSystem
 
 <a href='#aboutProject'>About project</a>
-<a href='#problem'>About project</a>
-<a href='#solution'>About project</a>
-
-<a href='#aboutProject'>About project</a>
 <ul>
-  <li href='#problem'>About project</li>
-  <li href='#solution'>About project</li>
+  <li href='#problem'>problem</li>
+  <li href='#solution'>solution</li>
 </ul>
 
 
