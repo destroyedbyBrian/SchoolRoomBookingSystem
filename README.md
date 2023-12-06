@@ -10,20 +10,18 @@ A school's library room booking system built with ReactJS, Node.js, Express.js a
   * [Problem](#problem)
   * [Solution](#solution)
 * [Planning](#planning)
-  * [Audience](#audience)
   * [User stories](#user-stories)
-  * [Entity Relationship Diagram](#entity-relationship-diagram)
+  * [Unified Modeling Language Diagram](#unified-modeling-language-diagram)
     * [Version One](#version-one)
     * [Version Two](#version-two)
-  * [Trello](#trello)
+  * [Jira KAN board](#jira-kan-board)
 * [Design](#design)
   * [Wireframes](#wireframes)
-  * [Prototype](#prototype)
 * [Development](#development)
   * [Requirements](#requirements)
   * [Technologies](#technologies)
+* [Future Developments](#future-developments)
 * [Challenges and final thoughts](#challenges-and-final-thoughts)
-* [Team](#team)
 
 ## Getting started
 These instructions will get you a copy of the project up and running on your local machine for development purposes.
