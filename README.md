@@ -150,7 +150,7 @@ Work breakdown using Jira KAN board.
 
 ### User Stories
 
-#### All Staff
+#### <ins>All Staff</ins>
 
 **In order to** not have to enter my login details each visit, **as a** Staff Member, **I want to** have the application remember me.
 
