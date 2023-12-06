@@ -1,15 +1,27 @@
 # SchoolRoomBookingSystem
 
 <a href='#aboutProject'>About project</a>
+<a href='#problem'>About project</a>
+<a href='#solution'>About project</a>
+
+<a href='#aboutProject'>About project</a>
+<ul>
+  <li href='#problem'>About project</li>
+  <li href='#solution'>About project</li>
+</ul>
 
 
 
 
 
+<h2 id='aboutProject'>About Project</h2>
 
-<h1 id='aboutProject'>About Project</h1>
+<h3 id='problem'>Problem</h3>h3>
 
 
+
+
+<h3 id='solution'>Solution</h3>h3>
 System functions: 
 
 • Room creation and management : only done by a staff user, he/she shall be able to 
