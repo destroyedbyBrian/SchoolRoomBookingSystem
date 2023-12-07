@@ -173,10 +173,10 @@ Work breakdown using Jira KAN board.
 **In order to** ensure my booking was successfully created, **as a** student, **I want to** be notified with a confirmation message.
 
 ### Unified Modeling Diagram
-![Entity Relationship Diagram](docs/UML diagram.png)
+![Entity Relationship Diagram](docs/UML-diagram.png)
 
 ### Logical Design
-![Logical Design](docs/logical design.png)
+![Logical Design](docs/logical-design.png)
 
 ## Design
 We designed the application to be an intuitive and simple, yet powerful way to navigate, analyse and create bookings. This ultimately enables the efficient use of resources.
