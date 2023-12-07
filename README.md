@@ -185,10 +185,14 @@ We designed the application to be an intuitive and simple, yet powerful way to n
 
 [View wireframes in Figma](https://www.figma.com/file/rZz04yE5prT3OphMTgalHQ/RBS-UI?type=design&node-id=0-1&mode=design&t=E1wwCyDvrJgyADH8-0)
 
-#### Room View
-
-#### Booking View
-
+#### Create & Launch Room (Staff)
+[Create Room](docs/staff-view.png)
+[Launch Room](docs/create-room.png)
+#### Book Room (Student)
+[Book Room](docs/student-view.png)
+[Book Room](docs/book-room.png)
+#### Delete Booking (Student)
+[Delete Booking](docs/delete-booking.png)
 ## Development
 
 ### Requirements
@@ -199,7 +203,7 @@ We designed the application to be an intuitive and simple, yet powerful way to n
 
 
 ### Jira KAN BOARD
-
+![Jira KAN Board](docs/jira-kan-board.png)
 
 ### Technologies
 - Node.js
