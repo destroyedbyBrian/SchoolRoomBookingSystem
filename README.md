@@ -197,7 +197,6 @@ We designed the application to be an intuitive and simple, yet powerful way to n
 [x] Backend - Node.js
 [x] Frontend - ReactJS
 [x] MySQL and MySQL workbench
-[x] Authentication (JsonWebToken)
 
 
 ### Jira KAN BOARD
@@ -209,6 +208,10 @@ We designed the application to be an intuitive and simple, yet powerful way to n
 - MongoDB
 - Mongoose
 - React.js
+- bcryptjs
+- cookie-parser
+- jsonwebtoken
+- uuid
 
 
 ## Future developments
