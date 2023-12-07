@@ -12,9 +12,7 @@ A school's library room booking system built with ReactJS, Node.js, Express.js a
 * [Planning](#planning)
   * [User stories](#user-stories)
   * [Unified Modeling Language Diagram](#unified-modeling-language-diagram)
-    * [Version One](#version-one)
   * [Logical Design](#logical-design)
-    * [Version One](#version-one)
   * [Jira KAN board](#jira-kan-board)
 * [Design](#design)
   * [Wireframes](#wireframes)
@@ -173,7 +171,7 @@ Work breakdown using Jira KAN board.
 **In order to** ensure my booking was successfully created, **as a** student, **I want to** be notified with a confirmation message.
 
 ### Unified Modeling Diagram
-![Entity Relationship Diagram](docs/UML-diagram.png)
+![Unified Modeling Diagram](docs/UML-diagram.png)
 
 ### Logical Design
 ![Logical Design](docs/logical-design.png)
