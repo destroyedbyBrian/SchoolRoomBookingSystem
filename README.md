@@ -1,7 +1,7 @@
 # Library Room Booking System
 A school's library room booking system built with ReactJS, Node.js, Express.js and MySQL.
 
-![UI overview](#docs/figma-overview.png)
+![UI overview](docs/figma-overview.png)
 
 ## Table of Contents
 
